@@ -2,7 +2,7 @@
 
 This repository tracks the data gathering and cleaning pipeline for the CPE Club Week 09 Security Analysis project.
 
-# Objectives
+# Objectives🎯
 
 The project aims to:
 
@@ -16,7 +16,9 @@ The project aims to:
 
 •Provide data-driven insights that support understanding of insecurity patterns.
 
-Team Members
+
+
+#Team Members👥
 
 Member| Responsibility
 
