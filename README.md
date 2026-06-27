@@ -16,6 +16,22 @@ The project aims to:
 
 •Provide data-driven insights that support understanding of insecurity patterns.
 
+Team Members
+
+Member| Responsibility
+
+Chioma| Data Gathering
+
+Anthony| Data Cleaning
+
+Joshua| Data Analysis & Visualization
+
+Goodluck| Documentation & GitHub
+
+Miracle| Presentation & Social Media
+
+Chinonso| Project Integration (Team Lead)
+
 ## Stage 3 & 4: Data Pipeline Architecture
 
 Below is the logical flow of how we fetch the raw ACLED conflict data using the `requests` module and clean it using `pandas`.
