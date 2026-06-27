@@ -7,10 +7,15 @@ This repository tracks the data gathering and cleaning pipeline for the CPE Club
 The project aims to:
 
 •Analyze the geographical distribution of insecurity incidents across Nigeria.
+
 •Examine temporal trends in security incidents.
+
 •Identify regions experiencing the highest levels of insecurity.
+
 •Visualize findings using charts and graphs.
+
 •Provide data-driven insights that support understanding of insecurity patterns.
+
 ## Stage 3 & 4: Data Pipeline Architecture
 
 Below is the logical flow of how we fetch the raw ACLED conflict data using the `requests` module and clean it using `pandas`.
